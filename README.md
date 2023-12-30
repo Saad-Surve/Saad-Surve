@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Saad Surve
 
 # 💫 About Me:
-🌱 I’m currently learning DSA, Competitive Programming<br><br>👯 I’m looking to collaborate on Web Dev projects<br><br>📫 How to reach me peswanisaachi@gmail.com
+🌱 I’m currently learning DSA, Competitive Programming<br><br>👯 I’m looking to collaborate on Web Dev projects<br><br>📫 How to reach me saadsurve1317@gmail.com
 
 
 # 💻 Tech Stack:
